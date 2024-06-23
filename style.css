@@ -1,0 +1,122 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    font-style: inherit;
+    */
+ 
+
+html {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+h1, h2, h3, h4, h5, h6, p, figure, ul, li, fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+.bodyc {
+    background-color: #e5e5e5;
+    display:block;
+    max-width: 1920px;  
+}
+
+.main {
+    background-image: url(https://mr-niederbayern.de/site/assets/files/1790/mrn-401-adobestock_512867767-standort-dingolfing-landau.2400x0.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    padding-bottom: 720px;
+}
+
+.mcontainer {
+    margin: 30px;
+    margin: 0px 250px;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+.header {
+    padding-top: 20px;
+    height: 100px;
+    text-align: center;
+}
+
+.Dannie {
+    margin-bottom: 7px;
+    text-align: center;
+    width: 100%;
+}
+
+.Statistika {
+    padding-left: 20px;
+}
+
+.Tabliza {
+    /* margin-left: 50px; */
+    /* width: 358.48px; */
+    background-image: url(https://s7.ezgif.com/tmp/ezgif-7-46ca5a69d9.gif)
+
+}
+
+.Transport { 
+    background-position: bottom;
+    margin-top: 25px;
+    background-image: url(https://s7.ezgif.com/tmp/ezgif-7-78619d9550.gif)
+    
+}
+
+
+table, th, td {
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-top: 2px double;
+    border-right: 2px double;
+    border-collapse: collapse;
+    padding: 2px;
+}
+table {
+    
+    
+}
+
+td {
+    padding: 12px 6px;
+}
+
+
+.mcontent {
+    background-color: rgba(255, 255, 255, 0.75);
+     width: 368px;
+     padding: 20px;
+     border-radius: 23px;
+}
+
+.tdnumber {
+    text-align: center;
+}
+
+/* у меня не получилось найти сайт, на котором можно было бы уменьшить прозрачность гифок */
+
+/* * {
+
+    /* ba: url(https://cdn.discordapp.com/attachments/571374045463838741/1254408714157293608/logo_landkreis_rgb2.png?ex=667962a7&is=66781127&hm=b5c452a961753137cfe49651be67239c05dfe99b7ca1b957f46b6f572240cba5&);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    */
+
+    /* } */ 
+
+
+  
+
